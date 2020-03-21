@@ -82,6 +82,8 @@ public class PersonOverviewController {
 			mainApp.getPersonData().add(tempPerson);
 		}
 	}
+	
+	// Se puede quitar este comentario
 
 	/**
 	 * Called when the user clicks the edit button. Opens a dialog to edit details
